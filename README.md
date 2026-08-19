@@ -1,5 +1,7 @@
 # Acceptance shard repo
 
+<!-- Header comment: this repo is a fixture for Vera's nightly staging acceptance suite. -->
+
 This repository exists only to give Vera's nightly staging acceptance suite a
 place to create issues, open pull requests and watch the ticket lifecycle run.
 Nothing here is a real product.
