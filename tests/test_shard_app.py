@@ -5,7 +5,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from shard_app import add, multiply, subtract  # noqa: E402
+from shard_app import add, multiply, subtract
 
 
 def test_add() -> None:
